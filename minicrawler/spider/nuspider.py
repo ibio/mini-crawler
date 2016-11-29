@@ -32,11 +32,14 @@ class NUSpider(BaseSpider):
     return itemList
 
   # override parent method
-  def _getCurrentPage(self, index, key):
-    itemList = []
+  def _gotoNextPage(self, index, key):
     # page number starts from 1
     number = index + 1
     self._provider.load(NUSpider.URL.format(number))
+
+  # override parent method
+  def _getCurrentPage(self, index, key):
+    itemList = []
     html = self._provider.getContent()
     # Test
     '''

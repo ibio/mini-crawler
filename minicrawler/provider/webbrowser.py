@@ -28,7 +28,7 @@ class WebBrowser():
     self.load(url)
 
   def load(self, url):
-    self._browser = self._getBroswer(url, **self._browserRest)
+    self._browser = self._getBrowser(url, **self._browserRest)
   
   # this is a MUST-HAVE signature
   def getContent(self):
@@ -50,11 +50,11 @@ class WebBrowser():
           element.click()
         except StaleElementReferenceException as e:
           print(type(e))    # the exception instance
-          time.sleep(WebBroswer.TIME_DELAY)
+          time.sleep(WebBrowser.TIME_DELAY)
           self.navigate(checkId, selector)
       else:
         print('found out checkId of navigate [{!s}]: {!s}'.format(checkId, result))
-        time.sleep(WebBroswer.TIME_DELAY)
+        time.sleep(WebBrowser.TIME_DELAY)
         self.navigate(checkId, selector)
   
   def quit(self):
@@ -65,10 +65,10 @@ class WebBrowser():
       self._browser = None
 
   # private member methods
-  def _getBroswer(self, url, driver = None, checkId = None, header = None, timeout = 5, width = 0, height = 0, screenshot = None):
+  def _getBrowser(self, url, driver = None, checkId = None, header = None, timeout = 5, width = 0, height = 0, screenshot = None):
     header = header or {}
     # the latest header will rewrite default header
-    combinedHeader = {**WebBroswer.DEFAULT_HEADER, **header}
+    combinedHeader = {**WebBrowser.DEFAULT_HEADER, **header}
     # http://stackoverflow.com/questions/35666067/selenium-phantomjs-custom-header-in-python
     for key, value in combinedHeader.items():
       webdriver.DesiredCapabilities.PHANTOMJS['phantomjs.page.customHeaders.{!s}'.format(key)] = value
@@ -98,7 +98,7 @@ class WebBrowser():
       while(not result):
         result = self._checkElement(browser, checkId, timeout)
         print('found out checkId [{!s}]: {!s}'.format(checkId, result))
-        time.sleep(WebBroswer.TIME_DELAY)
+        time.sleep(WebBrowser.TIME_DELAY)
     # browser.page_source
     return browser
 

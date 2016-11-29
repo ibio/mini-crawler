@@ -8,12 +8,12 @@ from minicrawler.spider.richspider import RichSpider
 # Test
 # _nuSpider._getCurrentPage(0, 0)
 
-# _salarySpider = SalarySpider()
+_salarySpider = SalarySpider()
 # 1: start index adjustment
-# _salarySpider.crawl(True, 1)
+_salarySpider.crawl(True, 1)
 # _salarySpider.crawl()
 
-_richSpider = RichSpider()
-_richSpider.crawl(True)
+# _richSpider = RichSpider()
+# _richSpider.crawl(True)
 
 
