@@ -2,7 +2,7 @@
 This is a mini size crawler made by **Python3**. It's easy to use and extend. Good for study.
 Simply crawler every item on a page and save it into local csv file. Then go to the next page.
 
-## Main Feature
+## Main Features
 - Pause and rerun
 - Suppoer almost all kernels (PhantomJS, Firefox etc.)
 - Also use Requests for those static pages, speed up
