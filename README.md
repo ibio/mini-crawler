@@ -51,21 +51,26 @@ Simply crawler every item on a page and save it into local csv file. Then go to 
 - quit
 
 ### Three different examples
-1. Wikipedia (static page)
+A Wikipedia (static page)
 ⋅⋅* https://en.wikipedia.org/wiki/List_of_colleges_and_universities_in_the_United_States_by_endowment
 ⋅⋅* Static page
 ⋅⋅* Only one page
+
 > minicrawler/spider/richspider.py
 
-2. US news (dynamic with url pagination)
+
+B US news (dynamic with url pagination)
 ⋅⋅* http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-universities
 ⋅⋅* Dynamic page
 ⋅⋅* Change url to next page
+
 > minicrawler/spider/nuspider.py
 
-3. Startclass (dynamic with button pagination)
+
+C Startclass (dynamic with button pagination)
 ⋅⋅* http://faculty-salaries.startclass.com/
 ⋅⋅* Dynamic page
 ⋅⋅* Click the pagenition button for the next page
+
 > minicrawler/spider/salaryspider.py
 
