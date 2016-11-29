@@ -1,0 +1,35 @@
+[INFO  - 2016-11-29T03:20:47.973Z] GhostDriver - Main - running on port 60705
+[INFO  - 2016-11-29T03:20:48.199Z] Session [d29a6930-b5e2-11e6-bd38-2f9026a59050] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-11-29T03:20:48.199Z] Session [d29a6930-b5e2-11e6-bd38-2f9026a59050] - page.customHeaders:  - {"Accept-Language":"en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4","Host":"colleges.usnews.rankingsandreviews.com","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36"}
+[INFO  - 2016-11-29T03:20:48.199Z] Session [d29a6930-b5e2-11e6-bd38-2f9026a59050] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.customHeaders.Accept-Language":"en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4","phantomjs.page.customHeaders.Host":"colleges.usnews.rankingsandreviews.com","phantomjs.page.customHeaders.User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36"}
+[INFO  - 2016-11-29T03:20:48.199Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d29a6930-b5e2-11e6-bd38-2f9026a59050
+[ERROR - 2016-11-29T03:20:49.579Z] Session [d29a6930-b5e2-11e6-bd38-2f9026a59050] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'a.includes("lotame")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-29T03:20:49.579Z] Session [d29a6930-b5e2-11e6-bd38-2f9026a59050] - page.onError - stack:
+  (anonymous function) (http://colleges.usnews.rankingsandreviews.com/static/js/prefold.js:99)
+  value (http://colleges.usnews.rankingsandreviews.com/static/js/prefold.js:99)
+  (anonymous function) (:0)
+  value (http://colleges.usnews.rankingsandreviews.com/static/js/prefold.js:99)
+  value (http://colleges.usnews.rankingsandreviews.com/static/js/prefold.js:99)
+  (anonymous function) (http://colleges.usnews.rankingsandreviews.com/static/js/prefold.js:194)
+  __webpack_require__ (http://colleges.usnews.rankingsandreviews.com/static/js/bootstrap.js?2:72)
+  (anonymous function) (http://colleges.usnews.rankingsandreviews.com/static/js/prefold.js:6)
+  __webpack_require__ (http://colleges.usnews.rankingsandreviews.com/static/js/bootstrap.js?2:72)
+  webpackJsonpCallback (http://colleges.usnews.rankingsandreviews.com/static/js/bootstrap.js?2:43)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-29T03:20:49.794Z] Session [d29a6930-b5e2-11e6-bd38-2f9026a59050] - page.onError - msg: ReferenceError: Can't find variable: yieldbot
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-29T03:20:49.794Z] Session [d29a6930-b5e2-11e6-bd38-2f9026a59050] - page.onError - stack:
+  global code (http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-universities?_page=7:4051)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-29T03:20:49.817Z] Session [d29a6930-b5e2-11e6-bd38-2f9026a59050] - page.onError - msg: ReferenceError: Can't find variable: _cc5305
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-29T03:20:49.818Z] Session [d29a6930-b5e2-11e6-bd38-2f9026a59050] - page.onError - stack:
+  global code (http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-universities?_page=7:4074)
+
+  phantomjs://platform/console++.js:263 in error

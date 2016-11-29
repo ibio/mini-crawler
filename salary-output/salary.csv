@@ -1,0 +1,721 @@
+institute,salary9,salaryAnnual,title,totalFaculty
+Alabama A & M University,85374.0,113832.0,Professor,55
+Alabama A & M University,64423.0,85897.0,Associate Professor,76
+Alabama A & M University,58016.0,77355.0,Assistant Professor,94
+Alabama A & M University,42030.0,56041.0,Instructor,33
+University of Alabama at Birmingham,140742.0,187656.0,Professor,653
+University of Alabama at Birmingham,84534.0,112713.0,Associate Professor,595
+University of Alabama at Birmingham,70713.0,94284.0,Assistant Professor,777
+University of Alabama at Birmingham,57894.0,77192.0,Instructor,219
+Amridge University,34643.0,46192.0,Instructor,41
+University of Alabama in Huntsville,117043.0,156058.0,Professor,76
+University of Alabama in Huntsville,85869.0,114493.0,Associate Professor,91
+University of Alabama in Huntsville,71876.0,95836.0,Assistant Professor,93
+University of Alabama in Huntsville,54753.0,73005.0,Instructor,12
+University of Alabama in Huntsville,51216.0,68289.0,Lecturer,40
+Alabama State University,83111.0,110816.0,Professor,56
+Alabama State University,66093.0,88124.0,Associate Professor,65
+Alabama State University,53391.0,71189.0,Assistant Professor,92
+Alabama State University,38708.0,51612.0,Instructor,50
+The University of Alabama,135251.0,180335.0,Professor,331
+The University of Alabama,89618.0,119491.0,Associate Professor,318
+Alabama A & M University,85374.0,113832.0,Professor,55
+Alabama A & M University,64423.0,85897.0,Associate Professor,76
+Alabama A & M University,58016.0,77355.0,Assistant Professor,94
+Alabama A & M University,42030.0,56041.0,Instructor,33
+University of Alabama at Birmingham,140742.0,187656.0,Professor,653
+University of Alabama at Birmingham,84534.0,112713.0,Associate Professor,595
+University of Alabama at Birmingham,70713.0,94284.0,Assistant Professor,777
+University of Alabama at Birmingham,57894.0,77192.0,Instructor,219
+Amridge University,34643.0,46192.0,Instructor,41
+University of Alabama in Huntsville,117043.0,156058.0,Professor,76
+University of Alabama in Huntsville,85869.0,114493.0,Associate Professor,91
+University of Alabama in Huntsville,71876.0,95836.0,Assistant Professor,93
+University of Alabama in Huntsville,54753.0,73005.0,Instructor,12
+University of Alabama in Huntsville,51216.0,68289.0,Lecturer,40
+Alabama State University,83111.0,110816.0,Professor,56
+Alabama State University,66093.0,88124.0,Associate Professor,65
+Alabama State University,53391.0,71189.0,Assistant Professor,92
+Alabama State University,38708.0,51612.0,Instructor,50
+The University of Alabama,135251.0,180335.0,Professor,331
+The University of Alabama,89618.0,119491.0,Associate Professor,318
+The University of Alabama,67645.0,90193.0,Assistant Professor,328
+The University of Alabama,45720.0,60961.0,Instructor,263
+The University of Alabama,78404.0,104539.0,Lecturer,12
+Athens State University,84678.0,112904.0,Professor,17
+Athens State University,74273.0,99032.0,Associate Professor,27
+Athens State University,60178.0,80238.0,Assistant Professor,37
+Athens State University,41973.0,55964.0,Instructor,3
+Auburn University-Montgomery,83921.0,111895.0,Professor,53
+Auburn University-Montgomery,67574.0,90099.0,Associate Professor,67
+Auburn University-Montgomery,52986.0,70648.0,Assistant Professor,61
+Auburn University-Montgomery,38070.0,50760.0,Instructor,14
+Auburn University Main Campus,107560.0,143413.0,Professor,442
+Auburn University Main Campus,77519.0,103360.0,Associate Professor,403
+Auburn University Main Campus,68888.0,91851.0,Assistant Professor,241
+Auburn University Main Campus,43729.0,58306.0,Instructor,89
+Auburn University Main Campus,73097.0,97463.0,Lecturer,9
+Birmingham-Southern College,80886.0,107848.0,Professor,33
+Birmingham-Southern College,65205.0,86940.0,Associate Professor,22
+Birmingham-Southern College,59278.0,79038.0,Assistant Professor,25
+Birmingham-Southern College,38878.0,51837.0,Instructor,4
+The University of Alabama,67645.0,90193.0,Assistant Professor,328
+The University of Alabama,45720.0,60961.0,Instructor,263
+The University of Alabama,78404.0,104539.0,Lecturer,12
+Athens State University,84678.0,112904.0,Professor,17
+Athens State University,74273.0,99032.0,Associate Professor,27
+Athens State University,60178.0,80238.0,Assistant Professor,37
+Athens State University,41973.0,55964.0,Instructor,3
+Auburn University-Montgomery,83921.0,111895.0,Professor,53
+Auburn University-Montgomery,67574.0,90099.0,Associate Professor,67
+Auburn University-Montgomery,52986.0,70648.0,Assistant Professor,61
+Auburn University-Montgomery,38070.0,50760.0,Instructor,14
+Auburn University Main Campus,107560.0,143413.0,Professor,442
+Auburn University Main Campus,77519.0,103360.0,Associate Professor,403
+Auburn University Main Campus,68888.0,91851.0,Assistant Professor,241
+Auburn University Main Campus,43729.0,58306.0,Instructor,89
+Auburn University Main Campus,73097.0,97463.0,Lecturer,9
+Birmingham-Southern College,80886.0,107848.0,Professor,33
+Birmingham-Southern College,65205.0,86940.0,Associate Professor,22
+Birmingham-Southern College,59278.0,79038.0,Assistant Professor,25
+Birmingham-Southern College,38878.0,51837.0,Instructor,4
+The University of Alabama,67645.0,90193.0,Assistant Professor,328
+The University of Alabama,45720.0,60961.0,Instructor,263
+The University of Alabama,78404.0,104539.0,Lecturer,12
+Athens State University,84678.0,112904.0,Professor,17
+Athens State University,74273.0,99032.0,Associate Professor,27
+Athens State University,60178.0,80238.0,Assistant Professor,37
+Athens State University,41973.0,55964.0,Instructor,3
+Auburn University-Montgomery,83921.0,111895.0,Professor,53
+Auburn University-Montgomery,67574.0,90099.0,Associate Professor,67
+Auburn University-Montgomery,52986.0,70648.0,Assistant Professor,61
+Auburn University-Montgomery,38070.0,50760.0,Instructor,14
+Auburn University Main Campus,107560.0,143413.0,Professor,442
+Auburn University Main Campus,77519.0,103360.0,Associate Professor,403
+Auburn University Main Campus,68888.0,91851.0,Assistant Professor,241
+Auburn University Main Campus,43729.0,58306.0,Instructor,89
+Auburn University Main Campus,73097.0,97463.0,Lecturer,9
+Birmingham-Southern College,80886.0,107848.0,Professor,33
+Birmingham-Southern College,65205.0,86940.0,Associate Professor,22
+Birmingham-Southern College,59278.0,79038.0,Assistant Professor,25
+Birmingham-Southern College,38878.0,51837.0,Instructor,4
+Birmingham-Southern College,37100.0,49467.0,Lecturer,2
+Concordia College-Selma,63000.0,84000.0,Professor,1
+Concordia College-Selma,53700.0,71600.0,Associate Professor,6
+Concordia College-Selma,50073.0,66765.0,Assistant Professor,13
+Concordia College-Selma,45000.0,60000.0,Instructor,1
+South University-Montgomery,43509.0,58013.0,Assistant Professor,5
+South University-Montgomery,39376.0,52502.0,Instructor,7
+Faulkner University,74726.0,99635.0,Professor,43
+Faulkner University,71891.0,95856.0,Associate Professor,20
+Faulkner University,44581.0,59442.0,Assistant Professor,39
+Faulkner University,26399.0,35199.0,Instructor,3
+Herzing University-Birmingham,43884.0,58513.0,Associate Professor,4
+Herzing University-Birmingham,,51921.0,Instructor,
+Huntingdon College,65760.0,87680.0,Professor,8
+Huntingdon College,51406.0,68542.0,Associate Professor,9
+Huntingdon College,52619.0,70160.0,Assistant Professor,23
+Huntingdon College,25000.0,33334.0,Instructor,1
+Jacksonville State University,77587.0,103450.0,Professor,91
+Jacksonville State University,62801.0,83735.0,Associate Professor,76
+Jacksonville State University,54854.0,73139.0,Assistant Professor,60
+Jacksonville State University,48420.0,64561.0,Instructor,91
+Judson College,57032.0,76044.0,Professor,5
+Judson College,51465.0,68620.0,Associate Professor,7
+Judson College,47789.0,63718.0,Assistant Professor,12
+University of West Alabama,73791.0,98389.0,Professor,16
+University of West Alabama,68644.0,91526.0,Associate Professor,24
+University of West Alabama,55645.0,74194.0,Assistant Professor,57
+University of West Alabama,39809.0,53079.0,Instructor,14
+University of West Alabama,33707.0,44943.0,Lecturer,5
+Miles College,43952.0,58603.0,Professor,9
+Miles College,42165.0,56220.0,Associate Professor,15
+Miles College,37719.0,50293.0,Assistant Professor,24
+Miles College,33520.0,44694.0,Instructor,53
+University of Mobile,53308.0,71078.0,Professor,17
+University of Mobile,47117.0,62824.0,Associate Professor,18
+University of Mobile,42733.0,56978.0,Assistant Professor,37
+University of Mobile,35720.0,47627.0,Instructor,9
+University of Montevallo,75466.0,100622.0,Professor,42
+University of Montevallo,64533.0,86044.0,Associate Professor,41
+University of Montevallo,53050.0,70734.0,Assistant Professor,49
+Jacksonville State University,48420.0,64561.0,Instructor,91
+Judson College,57032.0,76044.0,Professor,5
+Judson College,51465.0,68620.0,Associate Professor,7
+Judson College,47789.0,63718.0,Assistant Professor,12
+University of West Alabama,73791.0,98389.0,Professor,16
+University of West Alabama,68644.0,91526.0,Associate Professor,24
+University of West Alabama,55645.0,74194.0,Assistant Professor,57
+University of West Alabama,39809.0,53079.0,Instructor,14
+University of West Alabama,33707.0,44943.0,Lecturer,5
+Miles College,43952.0,58603.0,Professor,9
+Miles College,42165.0,56220.0,Associate Professor,15
+Miles College,37719.0,50293.0,Assistant Professor,24
+Miles College,33520.0,44694.0,Instructor,53
+University of Mobile,53308.0,71078.0,Professor,17
+University of Mobile,47117.0,62824.0,Associate Professor,18
+University of Mobile,42733.0,56978.0,Assistant Professor,37
+University of Mobile,35720.0,47627.0,Instructor,9
+University of Montevallo,75466.0,100622.0,Professor,42
+University of Montevallo,64533.0,86044.0,Associate Professor,41
+University of Montevallo,53050.0,70734.0,Assistant Professor,49
+Jacksonville State University,48420.0,64561.0,Instructor,91
+Judson College,57032.0,76044.0,Professor,5
+Judson College,51465.0,68620.0,Associate Professor,7
+Judson College,47789.0,63718.0,Assistant Professor,12
+University of West Alabama,73791.0,98389.0,Professor,16
+University of West Alabama,68644.0,91526.0,Associate Professor,24
+University of West Alabama,55645.0,74194.0,Assistant Professor,57
+University of West Alabama,39809.0,53079.0,Instructor,14
+University of West Alabama,33707.0,44943.0,Lecturer,5
+Miles College,43952.0,58603.0,Professor,9
+Miles College,42165.0,56220.0,Associate Professor,15
+Miles College,37719.0,50293.0,Assistant Professor,24
+Miles College,33520.0,44694.0,Instructor,53
+University of Mobile,53308.0,71078.0,Professor,17
+University of Mobile,47117.0,62824.0,Associate Professor,18
+University of Mobile,42733.0,56978.0,Assistant Professor,37
+University of Mobile,35720.0,47627.0,Instructor,9
+University of Montevallo,75466.0,100622.0,Professor,42
+University of Montevallo,64533.0,86044.0,Associate Professor,41
+University of Montevallo,53050.0,70734.0,Assistant Professor,49
+Jacksonville State University,48420.0,64561.0,Instructor,91
+Judson College,57032.0,76044.0,Professor,5
+Judson College,51465.0,68620.0,Associate Professor,7
+Judson College,47789.0,63718.0,Assistant Professor,12
+University of West Alabama,73791.0,98389.0,Professor,16
+University of West Alabama,68644.0,91526.0,Associate Professor,24
+University of West Alabama,55645.0,74194.0,Assistant Professor,57
+University of West Alabama,39809.0,53079.0,Instructor,14
+University of West Alabama,33707.0,44943.0,Lecturer,5
+Miles College,43952.0,58603.0,Professor,9
+Miles College,42165.0,56220.0,Associate Professor,15
+Miles College,37719.0,50293.0,Assistant Professor,24
+Miles College,33520.0,44694.0,Instructor,53
+University of Mobile,53308.0,71078.0,Professor,17
+University of Mobile,47117.0,62824.0,Associate Professor,18
+University of Mobile,42733.0,56978.0,Assistant Professor,37
+University of Mobile,35720.0,47627.0,Instructor,9
+University of Montevallo,75466.0,100622.0,Professor,42
+University of Montevallo,64533.0,86044.0,Associate Professor,41
+University of Montevallo,53050.0,70734.0,Assistant Professor,49
+Jacksonville State University,48420.0,64561.0,Instructor,91
+Judson College,57032.0,76044.0,Professor,5
+Judson College,51465.0,68620.0,Associate Professor,7
+Judson College,47789.0,63718.0,Assistant Professor,12
+University of West Alabama,73791.0,98389.0,Professor,16
+University of West Alabama,68644.0,91526.0,Associate Professor,24
+University of West Alabama,55645.0,74194.0,Assistant Professor,57
+University of West Alabama,39809.0,53079.0,Instructor,14
+University of West Alabama,33707.0,44943.0,Lecturer,5
+Miles College,43952.0,58603.0,Professor,9
+Miles College,42165.0,56220.0,Associate Professor,15
+Miles College,37719.0,50293.0,Assistant Professor,24
+Miles College,33520.0,44694.0,Instructor,53
+University of Mobile,53308.0,71078.0,Professor,17
+University of Mobile,47117.0,62824.0,Associate Professor,18
+University of Mobile,42733.0,56978.0,Assistant Professor,37
+University of Mobile,35720.0,47627.0,Instructor,9
+University of Montevallo,75466.0,100622.0,Professor,42
+University of Montevallo,64533.0,86044.0,Associate Professor,41
+University of Montevallo,53050.0,70734.0,Assistant Professor,49
+Jacksonville State University,48420.0,64561.0,Instructor,91
+Judson College,57032.0,76044.0,Professor,5
+Judson College,51465.0,68620.0,Associate Professor,7
+Judson College,47789.0,63718.0,Assistant Professor,12
+University of West Alabama,73791.0,98389.0,Professor,16
+University of West Alabama,68644.0,91526.0,Associate Professor,24
+University of West Alabama,55645.0,74194.0,Assistant Professor,57
+University of West Alabama,39809.0,53079.0,Instructor,14
+University of West Alabama,33707.0,44943.0,Lecturer,5
+Miles College,43952.0,58603.0,Professor,9
+Miles College,42165.0,56220.0,Associate Professor,15
+Miles College,37719.0,50293.0,Assistant Professor,24
+Miles College,33520.0,44694.0,Instructor,53
+University of Mobile,53308.0,71078.0,Professor,17
+University of Mobile,47117.0,62824.0,Associate Professor,18
+University of Mobile,42733.0,56978.0,Assistant Professor,37
+University of Mobile,35720.0,47627.0,Instructor,9
+University of Montevallo,75466.0,100622.0,Professor,42
+University of Montevallo,64533.0,86044.0,Associate Professor,41
+University of Montevallo,53050.0,70734.0,Assistant Professor,49
+Jacksonville State University,48420.0,64561.0,Instructor,91
+Judson College,57032.0,76044.0,Professor,5
+Judson College,51465.0,68620.0,Associate Professor,7
+Judson College,47789.0,63718.0,Assistant Professor,12
+University of West Alabama,73791.0,98389.0,Professor,16
+University of West Alabama,68644.0,91526.0,Associate Professor,24
+University of West Alabama,55645.0,74194.0,Assistant Professor,57
+University of West Alabama,39809.0,53079.0,Instructor,14
+University of West Alabama,33707.0,44943.0,Lecturer,5
+Miles College,43952.0,58603.0,Professor,9
+Miles College,42165.0,56220.0,Associate Professor,15
+Miles College,37719.0,50293.0,Assistant Professor,24
+Miles College,33520.0,44694.0,Instructor,53
+University of Mobile,53308.0,71078.0,Professor,17
+University of Mobile,47117.0,62824.0,Associate Professor,18
+University of Mobile,42733.0,56978.0,Assistant Professor,37
+University of Mobile,35720.0,47627.0,Instructor,9
+University of Montevallo,75466.0,100622.0,Professor,42
+University of Montevallo,64533.0,86044.0,Associate Professor,41
+University of Montevallo,53050.0,70734.0,Assistant Professor,49
+Jacksonville State University,48420.0,64561.0,Instructor,91
+Judson College,57032.0,76044.0,Professor,5
+Judson College,51465.0,68620.0,Associate Professor,7
+Judson College,47789.0,63718.0,Assistant Professor,12
+University of West Alabama,73791.0,98389.0,Professor,16
+University of West Alabama,68644.0,91526.0,Associate Professor,24
+University of West Alabama,55645.0,74194.0,Assistant Professor,57
+University of West Alabama,39809.0,53079.0,Instructor,14
+University of West Alabama,33707.0,44943.0,Lecturer,5
+Miles College,43952.0,58603.0,Professor,9
+Miles College,42165.0,56220.0,Associate Professor,15
+Miles College,37719.0,50293.0,Assistant Professor,24
+Miles College,33520.0,44694.0,Instructor,53
+University of Mobile,53308.0,71078.0,Professor,17
+University of Mobile,47117.0,62824.0,Associate Professor,18
+University of Mobile,42733.0,56978.0,Assistant Professor,37
+University of Mobile,35720.0,47627.0,Instructor,9
+University of Montevallo,75466.0,100622.0,Professor,42
+University of Montevallo,64533.0,86044.0,Associate Professor,41
+University of Montevallo,53050.0,70734.0,Assistant Professor,49
+Jacksonville State University,48420.0,64561.0,Instructor,91
+Judson College,57032.0,76044.0,Professor,5
+Judson College,51465.0,68620.0,Associate Professor,7
+Judson College,47789.0,63718.0,Assistant Professor,12
+University of West Alabama,73791.0,98389.0,Professor,16
+University of West Alabama,68644.0,91526.0,Associate Professor,24
+University of West Alabama,55645.0,74194.0,Assistant Professor,57
+University of West Alabama,39809.0,53079.0,Instructor,14
+University of West Alabama,33707.0,44943.0,Lecturer,5
+Miles College,43952.0,58603.0,Professor,9
+Miles College,42165.0,56220.0,Associate Professor,15
+Miles College,37719.0,50293.0,Assistant Professor,24
+Miles College,33520.0,44694.0,Instructor,53
+University of Mobile,53308.0,71078.0,Professor,17
+University of Mobile,47117.0,62824.0,Associate Professor,18
+University of Mobile,42733.0,56978.0,Assistant Professor,37
+University of Mobile,35720.0,47627.0,Instructor,9
+University of Montevallo,75466.0,100622.0,Professor,42
+University of Montevallo,64533.0,86044.0,Associate Professor,41
+University of Montevallo,53050.0,70734.0,Assistant Professor,49
+Jacksonville State University,48420.0,64561.0,Instructor,91
+Judson College,57032.0,76044.0,Professor,5
+Judson College,51465.0,68620.0,Associate Professor,7
+Judson College,47789.0,63718.0,Assistant Professor,12
+University of West Alabama,73791.0,98389.0,Professor,16
+University of West Alabama,68644.0,91526.0,Associate Professor,24
+University of West Alabama,55645.0,74194.0,Assistant Professor,57
+University of West Alabama,39809.0,53079.0,Instructor,14
+University of West Alabama,33707.0,44943.0,Lecturer,5
+Miles College,43952.0,58603.0,Professor,9
+Miles College,42165.0,56220.0,Associate Professor,15
+Miles College,37719.0,50293.0,Assistant Professor,24
+Miles College,33520.0,44694.0,Instructor,53
+University of Mobile,53308.0,71078.0,Professor,17
+University of Mobile,47117.0,62824.0,Associate Professor,18
+University of Mobile,42733.0,56978.0,Assistant Professor,37
+University of Mobile,35720.0,47627.0,Instructor,9
+University of Montevallo,75466.0,100622.0,Professor,42
+University of Montevallo,64533.0,86044.0,Associate Professor,41
+University of Montevallo,53050.0,70734.0,Assistant Professor,49
+Jacksonville State University,48420.0,64561.0,Instructor,91
+Judson College,57032.0,76044.0,Professor,5
+Judson College,51465.0,68620.0,Associate Professor,7
+Judson College,47789.0,63718.0,Assistant Professor,12
+University of West Alabama,73791.0,98389.0,Professor,16
+University of West Alabama,68644.0,91526.0,Associate Professor,24
+University of West Alabama,55645.0,74194.0,Assistant Professor,57
+University of West Alabama,39809.0,53079.0,Instructor,14
+University of West Alabama,33707.0,44943.0,Lecturer,5
+Miles College,43952.0,58603.0,Professor,9
+Miles College,42165.0,56220.0,Associate Professor,15
+Miles College,37719.0,50293.0,Assistant Professor,24
+Miles College,33520.0,44694.0,Instructor,53
+University of Mobile,53308.0,71078.0,Professor,17
+University of Mobile,47117.0,62824.0,Associate Professor,18
+University of Mobile,42733.0,56978.0,Assistant Professor,37
+University of Mobile,35720.0,47627.0,Instructor,9
+University of Montevallo,75466.0,100622.0,Professor,42
+University of Montevallo,64533.0,86044.0,Associate Professor,41
+University of Montevallo,53050.0,70734.0,Assistant Professor,49
+University of Montevallo,48892.0,65190.0,Instructor,4
+University of North Alabama,77460.0,103280.0,Professor,73
+University of North Alabama,66608.0,88811.0,Associate Professor,41
+University of North Alabama,57352.0,76470.0,Assistant Professor,77
+University of North Alabama,48853.0,65138.0,Instructor,29
+Oakwood University,56286.0,75049.0,Professor,26
+Oakwood University,48630.0,64841.0,Associate Professor,39
+Oakwood University,41490.0,55320.0,Assistant Professor,43
+Oakwood University,38078.0,50771.0,Instructor,2
+Prince Institute of Professional Studies,42388.0,56517.0,Instructor,
+Samford University,97024.0,129365.0,Professor,99
+Samford University,70414.0,93886.0,Associate Professor,85
+Samford University,59693.0,79592.0,Assistant Professor,97
+Samford University,51345.0,68461.0,Instructor,19
+Selma University,27750.0,37000.0,Professor,1
+Selma University,22500.0,30000.0,Assistant Professor,3
+Selma University,23958.0,31945.0,Instructor,21
+University of South Alabama,86627.0,115502.0,Professor,192
+University of South Alabama,68289.0,91052.0,Associate Professor,171
+University of South Alabama,59572.0,79429.0,Assistant Professor,264
+University of Montevallo,48892.0,65190.0,Instructor,4
+University of North Alabama,77460.0,103280.0,Professor,73
+University of North Alabama,66608.0,88811.0,Associate Professor,41
+University of North Alabama,57352.0,76470.0,Assistant Professor,77
+University of North Alabama,48853.0,65138.0,Instructor,29
+Oakwood University,56286.0,75049.0,Professor,26
+Oakwood University,48630.0,64841.0,Associate Professor,39
+Oakwood University,41490.0,55320.0,Assistant Professor,43
+Oakwood University,38078.0,50771.0,Instructor,2
+Prince Institute of Professional Studies,42388.0,56517.0,Instructor,
+Samford University,97024.0,129365.0,Professor,99
+Samford University,70414.0,93886.0,Associate Professor,85
+Samford University,59693.0,79592.0,Assistant Professor,97
+Samford University,51345.0,68461.0,Instructor,19
+Selma University,27750.0,37000.0,Professor,1
+Selma University,22500.0,30000.0,Assistant Professor,3
+Selma University,23958.0,31945.0,Instructor,21
+University of South Alabama,86627.0,115502.0,Professor,192
+University of South Alabama,68289.0,91052.0,Associate Professor,171
+University of South Alabama,59572.0,79429.0,Assistant Professor,264
+University of Montevallo,48892.0,65190.0,Instructor,4
+University of North Alabama,77460.0,103280.0,Professor,73
+University of North Alabama,66608.0,88811.0,Associate Professor,41
+University of North Alabama,57352.0,76470.0,Assistant Professor,77
+University of North Alabama,48853.0,65138.0,Instructor,29
+Oakwood University,56286.0,75049.0,Professor,26
+Oakwood University,48630.0,64841.0,Associate Professor,39
+Oakwood University,41490.0,55320.0,Assistant Professor,43
+Oakwood University,38078.0,50771.0,Instructor,2
+Prince Institute of Professional Studies,42388.0,56517.0,Instructor,
+Samford University,97024.0,129365.0,Professor,99
+Samford University,70414.0,93886.0,Associate Professor,85
+Samford University,59693.0,79592.0,Assistant Professor,97
+Samford University,51345.0,68461.0,Instructor,19
+Selma University,27750.0,37000.0,Professor,1
+Selma University,22500.0,30000.0,Assistant Professor,3
+Selma University,23958.0,31945.0,Instructor,21
+University of South Alabama,86627.0,115502.0,Professor,192
+University of South Alabama,68289.0,91052.0,Associate Professor,171
+University of South Alabama,59572.0,79429.0,Assistant Professor,264
+University of Montevallo,48892.0,65190.0,Instructor,4
+University of North Alabama,77460.0,103280.0,Professor,73
+University of North Alabama,66608.0,88811.0,Associate Professor,41
+University of North Alabama,57352.0,76470.0,Assistant Professor,77
+University of North Alabama,48853.0,65138.0,Instructor,29
+Oakwood University,56286.0,75049.0,Professor,26
+Oakwood University,48630.0,64841.0,Associate Professor,39
+Oakwood University,41490.0,55320.0,Assistant Professor,43
+Oakwood University,38078.0,50771.0,Instructor,2
+Prince Institute of Professional Studies,42388.0,56517.0,Instructor,
+Samford University,97024.0,129365.0,Professor,99
+Samford University,70414.0,93886.0,Associate Professor,85
+Samford University,59693.0,79592.0,Assistant Professor,97
+Samford University,51345.0,68461.0,Instructor,19
+Selma University,27750.0,37000.0,Professor,1
+Selma University,22500.0,30000.0,Assistant Professor,3
+Selma University,23958.0,31945.0,Instructor,21
+University of South Alabama,86627.0,115502.0,Professor,192
+University of South Alabama,68289.0,91052.0,Associate Professor,171
+University of South Alabama,59572.0,79429.0,Assistant Professor,264
+University of South Alabama,47688.0,63584.0,Instructor,126
+University of South Alabama,50923.0,67898.0,Lecturer,2
+Spring Hill College,68966.0,91955.0,Professor,13
+Spring Hill College,54503.0,72671.0,Associate Professor,31
+Spring Hill College,48136.0,64182.0,Assistant Professor,26
+Spring Hill College,47167.0,62889.0,Instructor,3
+Southeastern Bible College,45879.0,61172.0,Professor,3
+Southeastern Bible College,39852.0,53136.0,Associate Professor,1
+Southeastern Bible College,36949.0,49266.0,Assistant Professor,3
+Stillman College,52652.0,70203.0,Professor,6
+Stillman College,44867.0,59823.0,Associate Professor,21
+Stillman College,39121.0,52161.0,Assistant Professor,27
+Stillman College,26100.0,34800.0,Instructor,1
+Talladega College,45050.0,60068.0,Professor,8
+Talladega College,46227.0,61636.0,Associate Professor,12
+Talladega College,47928.0,63904.0,Assistant Professor,10
+Talladega College,43428.0,57905.0,Instructor,13
+Troy University,73746.0,98328.0,Professor,58
+Troy University,59258.0,79011.0,Associate Professor,107
+Troy University,53155.0,70874.0,Assistant Professor,203
+Troy University,40074.0,53433.0,Instructor,5
+Troy University,41372.0,55163.0,Lecturer,117
+Tuskegee University,45687.0,60916.0,Professor,55
+Tuskegee University,67182.0,89577.0,Associate Professor,51
+Tuskegee University,70813.0,94418.0,Assistant Professor,111
+Tuskegee University,44412.0,59217.0,Instructor,35
+Tuskegee University,43196.0,57596.0,Lecturer,10
+United States Sports Academy,61737.0,82316.0,Associate Professor,1
+United States Sports Academy,51857.0,69143.0,Assistant Professor,4
+United States Sports Academy,38525.0,51367.0,Instructor,1
+United States Sports Academy,,51642.0,Lecturer,
+University of Alaska Anchorage,104375.0,139167.0,Professor,111
+University of Alaska Anchorage,80288.0,107051.0,Associate Professor,139
+University of Alaska Anchorage,66927.0,89237.0,Assistant Professor,234
+University of Alaska Anchorage,50403.0,67205.0,Instructor,59
+University of Alaska Anchorage,,60000.0,Lecturer,
+University of Alaska Fairbanks,109339.0,145786.0,Professor,85
+University of Alaska Fairbanks,81593.0,108791.0,Associate Professor,116
+University of Alaska Fairbanks,67772.0,90363.0,Assistant Professor,173
+University of Alaska Fairbanks,63295.0,84394.0,Instructor,39
+Troy University,40074.0,53433.0,Instructor,5
+Troy University,41372.0,55163.0,Lecturer,117
+Tuskegee University,45687.0,60916.0,Professor,55
+Tuskegee University,67182.0,89577.0,Associate Professor,51
+Tuskegee University,70813.0,94418.0,Assistant Professor,111
+Tuskegee University,44412.0,59217.0,Instructor,35
+Tuskegee University,43196.0,57596.0,Lecturer,10
+United States Sports Academy,61737.0,82316.0,Associate Professor,1
+United States Sports Academy,51857.0,69143.0,Assistant Professor,4
+United States Sports Academy,38525.0,51367.0,Instructor,1
+United States Sports Academy,,51642.0,Lecturer,
+University of Alaska Anchorage,104375.0,139167.0,Professor,111
+University of Alaska Anchorage,80288.0,107051.0,Associate Professor,139
+University of Alaska Anchorage,66927.0,89237.0,Assistant Professor,234
+University of Alaska Anchorage,50403.0,67205.0,Instructor,59
+University of Alaska Anchorage,,60000.0,Lecturer,
+University of Alaska Fairbanks,109339.0,145786.0,Professor,85
+University of Alaska Fairbanks,81593.0,108791.0,Associate Professor,116
+University of Alaska Fairbanks,67772.0,90363.0,Assistant Professor,173
+University of Alaska Fairbanks,63295.0,84394.0,Instructor,39
+University of Alaska Southeast,94181.0,125575.0,Professor,7
+University of Alaska Southeast,75044.0,100059.0,Associate Professor,29
+University of Alaska Southeast,68677.0,91570.0,Assistant Professor,62
+University of Alaska Southeast,51679.0,68905.0,Instructor,
+Alaska Pacific University,56199.0,74932.0,Professor,12
+Alaska Pacific University,50257.0,67010.0,Associate Professor,14
+Alaska Pacific University,40074.0,53433.0,Assistant Professor,16
+Alaska Pacific University,29937.0,39917.0,Instructor,5
+Charter College,35539.0,47385.0,Instructor,44
+Prince William Sound Community College,82448.0,109931.0,Professor,1
+Prince William Sound Community College,73829.0,98439.0,Associate Professor,2
+Prince William Sound Community College,60319.0,80426.0,Assistant Professor,4
+Career Academy,,61365.0,Professor,
+Career Academy,30229.0,40306.0,Instructor,13
+Everest College-Phoenix,66701.0,88936.0,Instructor,
+Collins College,,44459.0,Instructor,
+Thunderbird School of Global Management,141631.0,188843.0,Professor,11
+Thunderbird School of Global Management,85093.0,113457.0,Associate Professor,25
+Thunderbird School of Global Management,81513.0,108684.0,Assistant Professor,8
+Thunderbird School of Global Management,,49092.0,Instructor,
+American Indian College of the Assemblies of God Inc,,29450.0,Professor,
+Apollo College-Phoenix Inc,32515.0,43354.0,Instructor,15
+Carrington College-Mesa,37197.0,49597.0,Instructor,12
+Carrington College-Tucson,27327.0,36437.0,Instructor,8
+College America,37132.0,49510.0,Associate Professor,6
+College America,,35183.0,Assistant Professor,
+Brookline College-Phoenix,42813.0,57085.0,Instructor,8
+Arizona State University,133468.0,177958.0,Professor,598
+Arizona State University,90727.0,120970.0,Associate Professor,463
+Arizona State University,81736.0,108982.0,Assistant Professor,319
+Arizona State University,39109.0,52146.0,Instructor,158
+Arizona State University,55807.0,74410.0,Lecturer,248
+University of Arizona,120920.0,161227.0,Professor,752
+University of Arizona,84338.0,112451.0,Associate Professor,482
+University of Arizona,72434.0,96579.0,Assistant Professor,365
+University of Arizona,37313.0,49751.0,Instructor,60
+University of Arizona,56290.0,75053.0,Lecturer,125
+The Art Center Design College-Tucson,28269.0,37693.0,Instructor,13
+Brown Mackie College-Tucson,44336.0,59115.0,Instructor,5
+DeVry University-Arizona,64723.0,86297.0,Professor,
+American Indian College of the Assemblies of God Inc,,29450.0,Professor,
+Apollo College-Phoenix Inc,32515.0,43354.0,Instructor,15
+Carrington College-Mesa,37197.0,49597.0,Instructor,12
+Carrington College-Tucson,27327.0,36437.0,Instructor,8
+College America,37132.0,49510.0,Associate Professor,6
+College America,,35183.0,Assistant Professor,
+Brookline College-Phoenix,42813.0,57085.0,Instructor,8
+Arizona State University,133468.0,177958.0,Professor,598
+Arizona State University,90727.0,120970.0,Associate Professor,463
+Arizona State University,81736.0,108982.0,Assistant Professor,319
+Arizona State University,39109.0,52146.0,Instructor,158
+Arizona State University,55807.0,74410.0,Lecturer,248
+University of Arizona,120920.0,161227.0,Professor,752
+University of Arizona,84338.0,112451.0,Associate Professor,482
+University of Arizona,72434.0,96579.0,Assistant Professor,365
+University of Arizona,37313.0,49751.0,Instructor,60
+University of Arizona,56290.0,75053.0,Lecturer,125
+The Art Center Design College-Tucson,28269.0,37693.0,Instructor,13
+Brown Mackie College-Tucson,44336.0,59115.0,Instructor,5
+DeVry University-Arizona,64723.0,86297.0,Professor,
+American Indian College of the Assemblies of God Inc,,29450.0,Professor,
+Apollo College-Phoenix Inc,32515.0,43354.0,Instructor,15
+Carrington College-Mesa,37197.0,49597.0,Instructor,12
+Carrington College-Tucson,27327.0,36437.0,Instructor,8
+College America,37132.0,49510.0,Associate Professor,6
+College America,,35183.0,Assistant Professor,
+Brookline College-Phoenix,42813.0,57085.0,Instructor,8
+Arizona State University,133468.0,177958.0,Professor,598
+Arizona State University,90727.0,120970.0,Associate Professor,463
+Arizona State University,81736.0,108982.0,Assistant Professor,319
+Arizona State University,39109.0,52146.0,Instructor,158
+Arizona State University,55807.0,74410.0,Lecturer,248
+University of Arizona,120920.0,161227.0,Professor,752
+University of Arizona,84338.0,112451.0,Associate Professor,482
+University of Arizona,72434.0,96579.0,Assistant Professor,365
+University of Arizona,37313.0,49751.0,Instructor,60
+University of Arizona,56290.0,75053.0,Lecturer,125
+The Art Center Design College-Tucson,28269.0,37693.0,Instructor,13
+Brown Mackie College-Tucson,44336.0,59115.0,Instructor,5
+DeVry University-Arizona,64723.0,86297.0,Professor,
+American Indian College of the Assemblies of God Inc,,29450.0,Professor,
+Apollo College-Phoenix Inc,32515.0,43354.0,Instructor,15
+Carrington College-Mesa,37197.0,49597.0,Instructor,12
+Carrington College-Tucson,27327.0,36437.0,Instructor,8
+College America,37132.0,49510.0,Associate Professor,6
+College America,,35183.0,Assistant Professor,
+Brookline College-Phoenix,42813.0,57085.0,Instructor,8
+Arizona State University,133468.0,177958.0,Professor,598
+Arizona State University,90727.0,120970.0,Associate Professor,463
+Arizona State University,81736.0,108982.0,Assistant Professor,319
+Arizona State University,39109.0,52146.0,Instructor,158
+Arizona State University,55807.0,74410.0,Lecturer,248
+University of Arizona,120920.0,161227.0,Professor,752
+University of Arizona,84338.0,112451.0,Associate Professor,482
+University of Arizona,72434.0,96579.0,Assistant Professor,365
+University of Arizona,37313.0,49751.0,Instructor,60
+University of Arizona,56290.0,75053.0,Lecturer,125
+The Art Center Design College-Tucson,28269.0,37693.0,Instructor,13
+Brown Mackie College-Tucson,44336.0,59115.0,Instructor,5
+DeVry University-Arizona,64723.0,86297.0,Professor,
+American Indian College of the Assemblies of God Inc,,29450.0,Professor,
+Apollo College-Phoenix Inc,32515.0,43354.0,Instructor,15
+Carrington College-Mesa,37197.0,49597.0,Instructor,12
+Carrington College-Tucson,27327.0,36437.0,Instructor,8
+College America,37132.0,49510.0,Associate Professor,6
+College America,,35183.0,Assistant Professor,
+Brookline College-Phoenix,42813.0,57085.0,Instructor,8
+Arizona State University,133468.0,177958.0,Professor,598
+Arizona State University,90727.0,120970.0,Associate Professor,463
+Arizona State University,81736.0,108982.0,Assistant Professor,319
+Arizona State University,39109.0,52146.0,Instructor,158
+Arizona State University,55807.0,74410.0,Lecturer,248
+University of Arizona,120920.0,161227.0,Professor,752
+University of Arizona,84338.0,112451.0,Associate Professor,482
+University of Arizona,72434.0,96579.0,Assistant Professor,365
+University of Arizona,37313.0,49751.0,Instructor,60
+University of Arizona,56290.0,75053.0,Lecturer,125
+The Art Center Design College-Tucson,28269.0,37693.0,Instructor,13
+Brown Mackie College-Tucson,44336.0,59115.0,Instructor,5
+DeVry University-Arizona,64723.0,86297.0,Professor,
+American Indian College of the Assemblies of God Inc,,29450.0,Professor,
+Apollo College-Phoenix Inc,32515.0,43354.0,Instructor,15
+Carrington College-Mesa,37197.0,49597.0,Instructor,12
+Carrington College-Tucson,27327.0,36437.0,Instructor,8
+College America,37132.0,49510.0,Associate Professor,6
+College America,,35183.0,Assistant Professor,
+Brookline College-Phoenix,42813.0,57085.0,Instructor,8
+Arizona State University,133468.0,177958.0,Professor,598
+Arizona State University,90727.0,120970.0,Associate Professor,463
+Arizona State University,81736.0,108982.0,Assistant Professor,319
+Arizona State University,39109.0,52146.0,Instructor,158
+Arizona State University,55807.0,74410.0,Lecturer,248
+University of Arizona,120920.0,161227.0,Professor,752
+University of Arizona,84338.0,112451.0,Associate Professor,482
+University of Arizona,72434.0,96579.0,Assistant Professor,365
+University of Arizona,37313.0,49751.0,Instructor,60
+University of Arizona,56290.0,75053.0,Lecturer,125
+The Art Center Design College-Tucson,28269.0,37693.0,Instructor,13
+Brown Mackie College-Tucson,44336.0,59115.0,Instructor,5
+DeVry University-Arizona,64723.0,86297.0,Professor,
+American Indian College of the Assemblies of God Inc,,29450.0,Professor,
+Apollo College-Phoenix Inc,32515.0,43354.0,Instructor,15
+Carrington College-Mesa,37197.0,49597.0,Instructor,12
+Carrington College-Tucson,27327.0,36437.0,Instructor,8
+College America,37132.0,49510.0,Associate Professor,6
+College America,,35183.0,Assistant Professor,
+Brookline College-Phoenix,42813.0,57085.0,Instructor,8
+Arizona State University,133468.0,177958.0,Professor,598
+Arizona State University,90727.0,120970.0,Associate Professor,463
+Arizona State University,81736.0,108982.0,Assistant Professor,319
+Arizona State University,39109.0,52146.0,Instructor,158
+Arizona State University,55807.0,74410.0,Lecturer,248
+University of Arizona,120920.0,161227.0,Professor,752
+University of Arizona,84338.0,112451.0,Associate Professor,482
+University of Arizona,72434.0,96579.0,Assistant Professor,365
+University of Arizona,37313.0,49751.0,Instructor,60
+University of Arizona,56290.0,75053.0,Lecturer,125
+The Art Center Design College-Tucson,28269.0,37693.0,Instructor,13
+Brown Mackie College-Tucson,44336.0,59115.0,Instructor,5
+DeVry University-Arizona,64723.0,86297.0,Professor,
+American Indian College of the Assemblies of God Inc,,29450.0,Professor,
+Apollo College-Phoenix Inc,32515.0,43354.0,Instructor,15
+Carrington College-Mesa,37197.0,49597.0,Instructor,12
+Carrington College-Tucson,27327.0,36437.0,Instructor,8
+College America,37132.0,49510.0,Associate Professor,6
+College America,,35183.0,Assistant Professor,
+Brookline College-Phoenix,42813.0,57085.0,Instructor,8
+Arizona State University,133468.0,177958.0,Professor,598
+Arizona State University,90727.0,120970.0,Associate Professor,463
+Arizona State University,81736.0,108982.0,Assistant Professor,319
+Arizona State University,39109.0,52146.0,Instructor,158
+Arizona State University,55807.0,74410.0,Lecturer,248
+University of Arizona,120920.0,161227.0,Professor,752
+University of Arizona,84338.0,112451.0,Associate Professor,482
+University of Arizona,72434.0,96579.0,Assistant Professor,365
+University of Arizona,37313.0,49751.0,Instructor,60
+University of Arizona,56290.0,75053.0,Lecturer,125
+The Art Center Design College-Tucson,28269.0,37693.0,Instructor,13
+Brown Mackie College-Tucson,44336.0,59115.0,Instructor,5
+DeVry University-Arizona,64723.0,86297.0,Professor,
+American Indian College of the Assemblies of God Inc,,29450.0,Professor,
+Apollo College-Phoenix Inc,32515.0,43354.0,Instructor,15
+Carrington College-Mesa,37197.0,49597.0,Instructor,12
+Carrington College-Tucson,27327.0,36437.0,Instructor,8
+College America,37132.0,49510.0,Associate Professor,6
+College America,,35183.0,Assistant Professor,
+Brookline College-Phoenix,42813.0,57085.0,Instructor,8
+Arizona State University,133468.0,177958.0,Professor,598
+Arizona State University,90727.0,120970.0,Associate Professor,463
+Arizona State University,81736.0,108982.0,Assistant Professor,319
+Arizona State University,39109.0,52146.0,Instructor,158
+Arizona State University,55807.0,74410.0,Lecturer,248
+University of Arizona,120920.0,161227.0,Professor,752
+University of Arizona,84338.0,112451.0,Associate Professor,482
+University of Arizona,72434.0,96579.0,Assistant Professor,365
+University of Arizona,37313.0,49751.0,Instructor,60
+University of Arizona,56290.0,75053.0,Lecturer,125
+The Art Center Design College-Tucson,28269.0,37693.0,Instructor,13
+Brown Mackie College-Tucson,44336.0,59115.0,Instructor,5
+DeVry University-Arizona,64723.0,86297.0,Professor,
+American Indian College of the Assemblies of God Inc,,29450.0,Professor,
+Apollo College-Phoenix Inc,32515.0,43354.0,Instructor,15
+Carrington College-Mesa,37197.0,49597.0,Instructor,12
+Carrington College-Tucson,27327.0,36437.0,Instructor,8
+College America,37132.0,49510.0,Associate Professor,6
+College America,,35183.0,Assistant Professor,
+Brookline College-Phoenix,42813.0,57085.0,Instructor,8
+Arizona State University,133468.0,177958.0,Professor,598
+Arizona State University,90727.0,120970.0,Associate Professor,463
+Arizona State University,81736.0,108982.0,Assistant Professor,319
+Arizona State University,39109.0,52146.0,Instructor,158
+Arizona State University,55807.0,74410.0,Lecturer,248
+University of Arizona,120920.0,161227.0,Professor,752
+University of Arizona,84338.0,112451.0,Associate Professor,482
+University of Arizona,72434.0,96579.0,Assistant Professor,365
+University of Arizona,37313.0,49751.0,Instructor,60
+University of Arizona,56290.0,75053.0,Lecturer,125
+The Art Center Design College-Tucson,28269.0,37693.0,Instructor,13
+Brown Mackie College-Tucson,44336.0,59115.0,Instructor,5
+DeVry University-Arizona,64723.0,86297.0,Professor,
+American Indian College of the Assemblies of God Inc,,29450.0,Professor,
+Apollo College-Phoenix Inc,32515.0,43354.0,Instructor,15
+Carrington College-Mesa,37197.0,49597.0,Instructor,12
+Carrington College-Tucson,27327.0,36437.0,Instructor,8
+College America,37132.0,49510.0,Associate Professor,6
+College America,,35183.0,Assistant Professor,
+Brookline College-Phoenix,42813.0,57085.0,Instructor,8
+Arizona State University,133468.0,177958.0,Professor,598
+Arizona State University,90727.0,120970.0,Associate Professor,463
+Arizona State University,81736.0,108982.0,Assistant Professor,319
+Arizona State University,39109.0,52146.0,Instructor,158
+Arizona State University,55807.0,74410.0,Lecturer,248
+University of Arizona,120920.0,161227.0,Professor,752
+University of Arizona,84338.0,112451.0,Associate Professor,482
+University of Arizona,72434.0,96579.0,Assistant Professor,365
+University of Arizona,37313.0,49751.0,Instructor,60
+University of Arizona,56290.0,75053.0,Lecturer,125
+The Art Center Design College-Tucson,28269.0,37693.0,Instructor,13
+Brown Mackie College-Tucson,44336.0,59115.0,Instructor,5
+DeVry University-Arizona,64723.0,86297.0,Professor,

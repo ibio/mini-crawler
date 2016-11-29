@@ -1,0 +1,151 @@
+address,institute,rank,tuition,undergradEnrollment
+"Princeton, NJ",Princeton University,1,45320,5402
+"Cambridge, MA",Harvard University,2,47074,6699
+"Chicago, IL",University of Chicago,3,52491,5844
+"New Haven, CT",Yale University,3,49480,5532
+"New York, NY",Columbia University,5,55056,6102
+"Stanford, CA",Stanford University,5,47940,6999
+"Cambridge, MA",Massachusetts Institute of Technology,7,48452,4527
+"Durham, NC",Duke University,8,51265,6639
+"Philadelphia, PA",University of Pennsylvania,8,51464,9726
+"Baltimore, MD",Johns Hopkins University,10,50410,6524
+"Hanover, NH",Dartmouth College,11,51438,4307
+"Pasadena, CA",California Institute of Technology,12,47577,1001
+"Evanston, IL",Northwestern University,12,50855,8314
+"Providence, RI",Brown University,14,51367,6652
+"Ithaca, NY",Cornell University,15,50953,14315
+"Houston, TX",Rice University,15,43918,3910
+"Notre Dame, IN",University of Notre Dame,15,49685,8462
+"Nashville, TN",Vanderbilt University,15,45610,6883
+"St. Louis, MO",Washington University in St. Louis,19,49770,7504
+"Atlanta, GA",Emory University,20,47954,6867
+"Washington, DC",Georgetown University,20,50547,7562
+"Berkeley, CA",University of California--Berkeley,20,40191,27496
+"Los Angeles, CA",University of Southern California,23,52217,18810
+"Pittsburgh, PA",Carnegie Mellon University,24,52040,6454
+"Los Angeles, CA",University of California--Los Angeles,24,39518,29585
+"Charlottesville, VA",University of Virginia,24,45066,16736
+"Medford, MA",Tufts University,27,52430,5290
+"Ann Arbor, MI",University of Michigan--Ann Arbor,27,43476,28312
+"Winston-Salem, NC",Wake Forest University,27,49308,4871
+"Chapel Hill, NC",University of North Carolina--Chapel Hill,30,33916,18415
+"Chestnut Hill, MA",Boston College,31,51296,9192
+"Williamsburg, VA",College of William & Mary,32,41718,6301
+"Rochester, NY",University of Rochester,32,50142,6304
+"Waltham, MA",Brandeis University,34,51570,3621
+"Atlanta, GA",Georgia Institute of Technology,34,32404,15142
+"New York, NY",New York University,36,49062,25722
+"Cleveland, OH",Case Western Reserve University,37,46006,5121
+"Santa Barbara, CA",University of California--Santa Barbara,37,40704,20607
+"Boston, MA",Boston University,39,50240,17932
+"Boston, MA",Northeastern University,39,47655,13697
+"Troy, NY",Rensselaer Polytechnic Institute,39,50797,5864
+"New Orleans, LA",Tulane University,39,51010,6662
+"Irvine, CA",University of California--Irvine,39,39458,25256
+"Bethlehem, PA",Lehigh University,44,48320,5075
+"Davis, CA",University of California--Davis,44,40728,28384
+"La Jolla, CA",University of California--San Diego,44,41387,26590
+"Champaign, IL",University of Illinois--Urbana-Champaign,44,31320,33368
+"Coral Gables, FL",University of Miami,44,47004,11122
+"Madison, WI",University of Wisconsin--Madison,44,32738,31662
+"University Park, PA",Pennsylvania State University--University Park,50,32382,40742
+"Malibu, CA",Pepperdine University,50,50022,3533
+"Gainesville, FL",University of Florida,50,28666,35043
+"Villanova, PA",Villanova University,50,49280,6994
+"Columbus, OH",Ohio State University--Columbus,54,29229,45289
+"Seattle, WA",University of Washington,54,34791,31063
+"Washington, DC",George Washington University,56,51950,11157
+"Dallas, TX",Southern Methodist University,56,50358,6411
+"Athens, GA",University of Georgia,56,29844,27547
+"Austin, TX",University of Texas--Austin,56,34676,39619
+"New York, NY",Fordham University,60,47317,8855
+"West Lafayette, IN",Purdue University--West Lafayette,60,28804,29497
+"Syracuse, NY",Syracuse University,60,45022,15196
+"Storrs, CT",University of Connecticut,60,35858,18826
+"College Park, MD",University of Maryland--College Park,60,32045,27443
+"Worcester, MA",Worcester Polytechnic Institute,60,46994,4299
+"Clemson, SC",Clemson University,66,32796,18016
+"New York, NY",Yeshiva University,66,40670,2744
+"Provo, UT",Brigham Young University--Provo,68,5300,30221
+"Pittsburgh, PA",University of Pittsburgh,68,29758,18908
+"Piscataway, NJ",Rutgers University--New Brunswick,70,30023,35484
+"Waco, TX",Baylor University,71,42006,14189
+"Hoboken, NJ",Stevens Institute of Technology,71,48838,2873
+"Minneapolis, MN",University of Minnesota--Twin Cities,71,22210,34071
+"Washington, DC",American University,74,44853,7909
+"Worcester, MA",Clark University,74,43150,2397
+"College Station, TX",Texas A&M University--College Station,74,28768,48960
+"Amherst, MA",University of Massachusetts--Amherst,74,30123,22748
+"Blacksburg, VA",Virginia Tech,74,29371,25384
+"Oxford, OH",Miami University--Oxford,79,31592,16387
+"Santa Cruz, CA",University of California--Santa Cruz,79,40241,16231
+"Newark, DE",University of Delaware,79,31420,18322
+"Golden, CO",Colorado School of Mines,82,34828,4608
+"East Lansing, MI",Michigan State University,82,39090,39143
+"Fort Worth, TX",Texas Christian University,82,42670,8894
+"Iowa City, IA",University of Iowa,82,28413,23357
+"Binghamton, NY",Binghamton University--SUNY,86,22164,13491
+"Bloomington, IN",Indiana University--Bloomington,86,34246,38364
+"Milwaukee, WI",Marquette University,86,38470,8334
+"Denver, CO",University of Denver,86,46362,5758
+"San Diego, CA",University of San Diego,86,46140,5647
+"Tulsa, OK",University of Tulsa,86,38796,3478
+"Tallahassee, FL",Florida State University,92,21673,32706
+"Raleigh, NC",North Carolina State University--Raleigh,92,26399,24111
+"Boulder, CO",University of Colorado--Boulder,92,35079,27010
+"Burlington, VT",University of Vermont,92,40364,10973
+"Philadelphia, PA",Drexel University,96,51030,14138
+"St. Louis, MO",Saint Louis University,96,40726,8248
+"Stony Brook, NY",Stony Brook University--SUNY,96,26266,16831
+"Auburn, AL",Auburn University,99,28840,21786
+"Chicago, IL",Loyola University Chicago,99,41384,11079
+"Syracuse, NY",SUNY College of Environmental Science and Forestry,99,17620,1839
+"Buffalo, NY",University at Buffalo--SUNY,99,26270,19951
+"Chicago, IL",Illinois Institute of Technology,103,45214,2991
+"Tuscaloosa, AL",University of Alabama,103,26950,31958
+"Eugene, OR",University of Oregon,103,33442,20538
+"Knoxville, TN",University of Tennessee,103,30858,21863
+"Rochester, NY",Rochester Institute of Technology,107,38568,12607
+"Durham, NH",University of New Hampshire,107,31424,13034
+"San Francisco, CA",University of San Francisco,107,44494,6782
+"Columbia, SC",University of South Carolina,107,31282,25237
+"Ames, IA",Iowa State University,111,21483,30034
+"Dayton, OH",University of Dayton,111,40940,8665
+"Columbia, MO",University of Missouri,111,25892,27812
+"Lincoln, NE",University of Nebraska--Lincoln,111,23148,20182
+"Norman, OK",University of Oklahoma,111,21451,22132
+"Stockton, CA",University of the Pacific,111,44588,3735
+"Salt Lake City, UT",University of Utah,111,27039,23794
+"Houghton, MI",Michigan Technological University,118,30968,5721
+"South Orange, NJ",Seton Hall University,118,39258,6090
+"Philadelphia, PA",Temple University,118,25994,28609
+"Riverside, CA",University of California--Riverside,118,40263,18608
+"Lawrence, KS",University of Kansas,118,25932,19245
+"St. Paul, MN",University of St. Thomas,118,39594,6240
+"Washington, DC",The Catholic University of America,124,42536,3480
+"Chicago, IL",DePaul University,124,37626,15961
+"Pittsburgh, PA",Duquesne University,124,35062,5961
+"Washington, DC",Howard University,124,24908,6883
+"Tucson, AZ",University of Arizona,124,30025,33732
+"Tempe, AZ",Arizona State University--Tempe,129,25458,41828
+"Potsdam, NY",Clarkson University,129,46132,3257
+"Fort Collins, CO",Colorado State University,129,28374,24433
+"New York, NY",New School,129,45535,6792
+"Hempstead, NY",Hofstra University,133,42160,6824
+"Lexington, KY",University of Kentucky,133,26334,22705
+"Manhattan, KS",Kansas State University,135,23429,19859
+"Baton Rouge, LA",Louisiana State University--Baton Rouge,135,27005,26156
+"Macon, GA",Mercer University,135,35130,4667
+"Newark, NJ",New Jersey Institute of Technology,135,30326,8008
+"Newark, NJ",Rutgers University--Newark,135,29480,7713
+"Fayetteville, AR",University of Arkansas,135,23168,22159
+"Cincinnati, OH",University of Cincinnati,135,26334,25054
+"University, MS",University of Mississippi,135,22012,18785
+"Fairfax, VA",George Mason University,143,32582,23062
+"Corvallis, OR",Oregon State University,143,28846,24612
+"Pullman, WA",Washington State University,143,25673,24470
+"Garden City, NY",Adelphi University,146,34034,4852
+"Athens, OH",Ohio University,146,21208,23513
+"San Diego, CA",San Diego State University,146,18244,29234
+"Rochester, NY",St. John Fisher College,146,31880,2805
+"Albany, NY",University at Albany--SUNY,146,22244,12908
