@@ -2,6 +2,11 @@
 This is a mini size crawler made by **Python3**. It's easy to use and extend. Good for study.
 Simply crawler every item on a page and save it into local csv file. Then go to the next page.
 
+## Main Feature
+- Pause and rerun
+- Suppoer almost all kernels (PhantomJS, Firefox etc.)
+- Also use Requests for those static pages, speed up
+
 ## Used Packages
 - requests
 - selenium
@@ -26,7 +31,7 @@ Simply crawler every item on a page and save it into local csv file. Then go to 
 ![alt text](https://raw.githubusercontent.com/ibio/mini-crawler/master/mini-crawler.png "Mini Crawler")
 
 ## Main files
-> webcrawler/spider/basespider.py
+> minicrawler/spider/basespider.py
 
 - crawl
 - getTotalKeys (leave it to sub class)
@@ -35,16 +40,22 @@ Simply crawler every item on a page and save it into local csv file. Then go to 
 - saveCurrentIndex
 - saveContentToWorkbook
 
-> webcrawler/provider/requestor.py
-> webcrawler/provider/webbrowser.py
+> minicrawler/provider/requestor.py
+
+> minicrawler/provider/webbrowser.py
 
 - load
 - getContent (leave it to different kernel)
 - navigate (leave it to different kernel)
 - quit
 
-
 ### Three different examples
 1. Wikipedia (static page)
+> minicrawler/spider/richspider.py
+
 2. US news (dynamic with url pagination)
+> minicrawler/spider/nuspider.py
+
 3. Startclass (dynamic with button pagination)
+> minicrawler/spider/salaryspider.py
+
