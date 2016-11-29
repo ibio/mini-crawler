@@ -3,9 +3,10 @@ This is a mini size crawler made by **Python3**. It's easy to use and extend. Go
 Simply crawler every item on a page and save it into local csv file. Then go to the next page.
 
 ## Main Features
+- Save every item on the page into cvs and then go to the next page
 - Pause and rerun
 - Suppoer almost all kernels (PhantomJS, Firefox etc.)
-- Also use Requests for those static pages, speed up
+- Also can use Requests for those static pages, speed up
 
 ## Used Packages
 - requests
@@ -34,9 +35,9 @@ Simply crawler every item on a page and save it into local csv file. Then go to 
 > minicrawler/spider/basespider.py
 
 - crawl
-- getTotalKeys (leave it to sub class)
-- getCurrentPage (leave it to sub class)
-- gotoNextPage (leave it to sub class)
+- **_getTotalKeys_** (leave it to sub class)
+- **_getCurrentPage_** (leave it to sub class)
+- **_gotoNextPage_** (leave it to sub class, optional)
 - saveCurrentIndex
 - saveContentToWorkbook
 
@@ -51,11 +52,14 @@ Simply crawler every item on a page and save it into local csv file. Then go to 
 
 ### Three different examples
 1. Wikipedia (static page)
+https://en.wikipedia.org/wiki/List_of_colleges_and_universities_in_the_United_States_by_endowment
 > minicrawler/spider/richspider.py
 
 2. US news (dynamic with url pagination)
+http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-universities
 > minicrawler/spider/nuspider.py
 
 3. Startclass (dynamic with button pagination)
+http://faculty-salaries.startclass.com/
 > minicrawler/spider/salaryspider.py
 
