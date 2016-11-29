@@ -23,10 +23,11 @@ Simply crawler every item on a page and save it into local csv file. Then go to 
 - Less Memory leak
 
 ## Architecture overview
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/ibio/mini-crawler/master/mini-crawler.png "Mini Crawler")
 
 ## Main files
 > webcrawler/spider/basespider.py
+
 - crawl
 - getTotalKeys (leave it to sub class)
 - getCurrentPage (leave it to sub class)
@@ -36,6 +37,7 @@ Simply crawler every item on a page and save it into local csv file. Then go to 
 
 > webcrawler/provider/requestor.py
 > webcrawler/provider/webbrowser.py
+
 - load
 - getContent (leave it to different kernel)
 - navigate (leave it to different kernel)
