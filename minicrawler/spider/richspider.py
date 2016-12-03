@@ -7,9 +7,9 @@ import math
 class RichSpider(BaseSpider):
   TEMP_LAST_KEY = './minicrawler/spider/rich-lastkey.pickle'
   URL = 'https://en.wikipedia.org/wiki/List_of_colleges_and_universities_in_the_United_States_by_endowment'
-  CHECK_ID = 'search-application-results-view'
+  # CHECK_ID = 'search-application-results-view'
   HEADER = {
-    'Host':'colleges.usnews.rankingsandreviews.com',
+    # 'Host':'colleges.usnews.rankingsandreviews.com',
   }
 
   def __init__(self):
