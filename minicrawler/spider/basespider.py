@@ -100,8 +100,9 @@ class BaseSpider():
       result = self._getCurrentPage(keyIndex, key)
       if(result):
         # print (result)
-        # save to .xlsx
-        self._saveWorkbook(result, key)
+        # save to .csv
+        # use keyIndex because current key may be invalid path
+        self._saveWorkbook(result, keyIndex)
         print('getting {!s} done!'.format(key))
       # save current index as an existing one
       keyIndex += 1
@@ -117,7 +118,7 @@ class BaseSpider():
     print(string)
 
   def _saveWorkbook(self, items, key):
-    path = '/'.join([self._outputFolder, key + '.csv'])
+    path = '/'.join([self._outputFolder, 'key' + str(key) + '.csv'])
     # check the folder
     if not os.path.exists(self._outputFolder):
       os.makedirs(self._outputFolder)
